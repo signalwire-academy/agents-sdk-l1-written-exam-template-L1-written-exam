@@ -29,6 +29,16 @@ Enter one answer per line in the format `1. A`:
 18. 
 19. 
 20. 
+21. 
+22. 
+23. 
+24. 
+25. 
+26. 
+27. 
+28. 
+29. 
+30. 
 
 ---
 *Submit this issue to receive your grade. You may edit and resubmit if needed.*
